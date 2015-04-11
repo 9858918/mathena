@@ -1,0 +1,41 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+#banner {
+	font-size: 32pt;
+	text-align: center;
+	padding: 1em;
+	
+}
+
+#settingsbutton {
+	position: fixed;
+	top: 0;
+	right: 0;
+	height: 40px;
+	width: 40px;
+}
+
+#settingscontent {
+	display: none;
+}
+
+#maincontent {
+	height: calc(100% - 10em);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
